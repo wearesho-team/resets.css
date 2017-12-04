@@ -11,7 +11,7 @@ npm i --save resets.css
 ## Usage
 Just add import to your bootstrap file:
 ```scss
-@import "resets.css";
+@import "~resets.css";
 ```
 
 ## License
