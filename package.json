@@ -1,0 +1,25 @@
+{
+  "name": "resets.css",
+  "version": "1.0.0",
+  "description": "Resets for default browser styles",
+  "main": "resets.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearesho-team/resets.css.git"
+  },
+  "keywords": [
+    "scss",
+    "reset",
+    "styles",
+    "css"
+  ],
+  "author": "Eugene Grishchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wearesho-team/resets.scss/issues"
+  },
+  "homepage": "https://github.com/wearesho-team/resets.scss#readme"
+}
