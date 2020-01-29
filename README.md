@@ -10,7 +10,9 @@ npm i --save resets.css
 
 ## Usage
 Just add import to your bootstrap file:
-```scss
+```css
+@import "~resets.css/resets.css";
+# Or Minified
 @import "~resets.css/resets.css";
 ```
 
