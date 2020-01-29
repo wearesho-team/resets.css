@@ -13,7 +13,7 @@ Just add import to your bootstrap file:
 ```css
 @import "~resets.css/resets.css";
 # Or Minified
-@import "~resets.css/resets.css";
+@import "~resets.css/resets.min.css";
 ```
 
 ## License
